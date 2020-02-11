@@ -1,19 +1,33 @@
 # vue-powerful-webrtc
 
-## Project setup
+Simple, efficient and powerful WebRTC component for Vue.js
+
+## Installation
 ```
-npm install
+npm install --save vue-powerful-webrtc
+
+or
+
+yarn add vue-powerful-webrtc
+
 ```
 
-### Compiles and hot-reloads for development
+### Usage
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+Preparing...
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Properties
+```
+Preparing...
+```
+
+### Events
+```
+Preparing...
+```
+
+### Roadmap
+```
+Preparing...
+```
